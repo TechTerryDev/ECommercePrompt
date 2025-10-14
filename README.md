@@ -6,3 +6,4 @@
 个人微信：cyclone_rider
 
 博客：https://www.amzalysis.com
+教程：https://www.amzalysis.com/article/chatgpt-desktop-prompt
